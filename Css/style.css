@@ -1,0 +1,15 @@
+.brick {
+  background-color: rgb(184, 13, 13);
+  height: 100px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 50px;
+}
